@@ -10,11 +10,14 @@ To develop and test the contract, I used the [Ganache](https://www.trufflesuite.
 ![Ganache Testing1](EmployeeOne.png)
 ![Ganache Testing2](EmployeeTwo.png)
 ![Ganache Testing3](EmployeeThree.png)
+![MetaMask](metamask.png)
 
 ### The `AssociateProfitSplitter` Contract
 
 
 #### Testing the contract
 
-Tested the `deposit` function by sending various values.
-
+Tested the `deposit` function by sending various small values.
+![Test1](metamask_employee1.png)
+![Test2](metamask_employee2.png)
+![Test3](metamask_employee3.png)
